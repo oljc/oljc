@@ -1,16 +1,24 @@
-### Hi there 👋
+##  👋 Hi there I'm JiangChen Li
 
-<!--
-**oljc/oljc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Former Username: LIjiAngChen8 （It's too long, so rename）
 
-Here are some ideas to get you started:
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=oljc&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=oljc&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=oljc&show_icons=true" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Tech Stack
+
+<code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-react.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-vitejs.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos:vue.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos:nuxt-icon.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos:vueuse.svg"></code>&nbsp;
