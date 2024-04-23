@@ -1,7 +1,3 @@
-##  👋 Hi there I'm JiangChen Li
-
-> Former Username: LIjiAngChen8 （It's too long, so rename）
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=oljc&show_icons=true&theme=dark"
@@ -20,5 +16,5 @@
 <code><img height="20" src="https://api.iconify.design/logos-react.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-vitejs.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos:vue.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos:nuxt-icon.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos:vueuse.svg"></code>&nbsp;
+
+> Former Username: LIjiAngChen8 （It's too long, so rename）
