@@ -16,5 +16,5 @@
 <code><img height="20" src="https://api.iconify.design/logos-react.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-vitejs.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos:vue.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos:rust.svg"></code>&nbsp;
 
-> Former Username: LIjiAngChen8 （It's too long, so rename）
